@@ -1,0 +1,13 @@
+#g-signin2 {
+  position: relative;
+  left: 1.5em;
+  top: 1.5em;
+}
+
+
+
+#navbutton {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

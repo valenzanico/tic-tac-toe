@@ -1,0 +1,24 @@
+.installtitle {
+    padding-left: 9.3em;
+    font-size: 50px;
+}
+
+.i-ex {
+    font-size: 20px;
+    padding-left: 6em;
+    padding-right: 6em;
+    padding-top: 3em;
+
+}
+
+.i-in {
+    font-size:25px;
+    background-color: #1919ff;
+    padding: 1.3em;
+    border-radius: 20px;
+}
+
+#pwa-i-bu {
+    position: relative;
+    top: 1em;
+}

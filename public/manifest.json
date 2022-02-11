@@ -1,0 +1,48 @@
+{
+  "short_name": "Tic Tac Toe",
+  "name": "Tic Tac Toe",
+  "description": "A simple tic tac toe game",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "76x76",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/images/logo50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "/images/logo76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/images/logo192-maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo256-maskable.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "any",
+  "categories": ["games"],
+  "display": "standalone",
+  "theme_color": "#ADD8E6",
+  "background_color": "#ADD8E6"
+}
